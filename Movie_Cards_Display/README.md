@@ -89,7 +89,7 @@ movie-explorer
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/movie-explorer.git
+git clone https://github.com/Dhawal-Bhawsar/movie-explorer.git
 ```
 
 Go to the project folder
