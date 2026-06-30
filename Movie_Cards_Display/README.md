@@ -45,8 +45,8 @@ A modern and responsive **Movie Explorer** web application built with **React** 
 movie-explorer
 │
 ├── public/
-├── screenshots/
-│   └── home.png
+├── screenshot/
+│   └── Movie Explorer Screenshot.png
 │
 ├── src/
 │   ├── assets/
