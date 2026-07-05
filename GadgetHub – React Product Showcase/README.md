@@ -134,17 +134,6 @@ http://localhost:5173
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-*Add a screenshot here*
-
-### Featured Products
-
-*Add a screenshot here*
-
----
 
 ## 🎯 Future Improvements
 
