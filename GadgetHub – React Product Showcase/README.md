@@ -1,16 +1,174 @@
-# React + Vite
+# 🛍️ GadgetHub – React UI Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern and responsive product showcase UI built using **React** and **Tailwind CSS**. This project focuses on building reusable components, passing data through props, and creating an attractive user interface while learning React fundamentals.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Preview
 
-## React Compiler
+### 🏠 Home Page
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<img width="1898" height="817" alt="Home Page" src="https://github.com/user-attachments/assets/bea3b374-9720-4404-8777-6ab4f9d0552c" />
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### 🛍️ Featured Products
+
+<img width="1900" height="1018" alt="Featured Products" src="https://github.com/user-attachments/assets/f12aef42-350c-465d-adf1-e2504380e611" />
+
+---
+
+### ↔️ Scrollable Product Showcase
+
+<img width="1373" height="727" alt="Scrollable Product Showcase" src="https://github.com/user-attachments/assets/6b90a875-0518-487c-9da9-a31c59cf65da" />
+
+---
+
+Example:
+
+```text
+assets/
+├── home-page.png
+├── products-section.png
+└── footer.png
+```
+
+---
+
+## ✨ Features
+
+* 🎨 Modern and clean UI
+* 🧩 Reusable React components
+* 📦 Dynamic product cards using props
+* 🏷️ Product badges (NEW, POPULAR, BEST SELLER)
+* ⭐ Product ratings
+* 💰 Product pricing
+* 📱 Clean and responsive layout
+* 🎯 Hero section with call-to-action
+* 🛍️ Featured products section
+* 🚀 Built with React and Tailwind CSS
+
+---
+
+## 🛠️ Tech Stack
+
+* React
+* Vite
+* Tailwind CSS
+* JavaScript (ES6+)
+* JSX
+
+---
+
+## 📂 Project Structure
+
+```text
+src/
+│
+├── assets/
+│
+├── components/
+│   ├── Footer.jsx
+│   ├── Hero.jsx
+│   ├── Navbar.jsx
+│   ├── ProductCard.jsx
+│   └── Products.jsx
+│
+├── data/
+│   └── products.js
+│
+├── pages/
+│   └── Home.jsx
+│
+├── App.jsx
+├── main.jsx
+└── index.css
+```
+
+---
+
+## 📚 React Concepts Practiced
+
+* Functional Components
+* JSX
+* Props
+* Component Composition
+* Rendering Lists with `map()`
+* Import & Export
+* Organizing Components
+* Passing Data Using Props
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/<your-username>/<repository-name>.git
+```
+
+### 2. Navigate to the project
+
+```bash
+cd <repository-name>
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+### 5. Open in your browser
+
+```text
+http://localhost:5173
+```
+
+---
+
+## 📸 Screenshots
+
+### Home Page
+
+*Add a screenshot here*
+
+### Featured Products
+
+*Add a screenshot here*
+
+---
+
+## 🎯 Future Improvements
+
+* Product search
+* Category filters
+* Product details page
+* Dark mode
+* Shopping cart
+* React Router
+* API integration
+
+---
+
+## 👨‍💻 Author
+
+**Dhawal Bhawsar**
+
+* GitHub: https://github.com/<your-username>
+* LinkedIn: https://linkedin.com/in/<your-linkedin>
+
+---
+
+## 📄 License
+
+This project is created for learning React and building a portfolio. Feel free to explore, modify, and use it for educational purposes.
+
+⭐ If you found this project helpful, consider giving it a star!
