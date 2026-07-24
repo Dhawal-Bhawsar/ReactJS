@@ -26,7 +26,6 @@ A modern, responsive image gallery built with **React**, **Vite**, and **Tailwin
 
 ## 📸 Preview
 
-> Add screenshots or GIFs here.
 
 | Home Page | Image Preview |
 |-----------|---------------|
@@ -81,7 +80,7 @@ src/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/lensfolio.git
+git clone https://github.com/Dhawal-Bhawsar/lensfolio.git
 ```
 
 ### Navigate to the project
@@ -191,7 +190,7 @@ This project is licensed under the **MIT License**.
 
 **Dhawal Bhawsar**
 
-- GitHub: https://github.com/saarthack
+- GitHub: https://github.com/Dhawal-Bhawsar
 - LinkedIn: https://www.linkedin.com/in/dhawal-bhawsar/
 
 ---
