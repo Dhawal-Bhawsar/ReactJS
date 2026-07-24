@@ -29,7 +29,7 @@ A modern, responsive image gallery built with **React**, **Vite**, and **Tailwin
 
 | Home Page | Image Preview |
 |-----------|---------------|
-| ![Home](screenshots/home.png) | ![Modal](screenshots/modal.png) |
+| ![Home](Screenshots/home.png) | ![Modal](Screenshots/modal.png) |
 
 ---
 
