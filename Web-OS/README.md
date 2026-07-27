@@ -18,7 +18,6 @@
 
 ## 🖥️ Desktop
 
-![Desktop](./screenshots/desktop.png)![Uploading home.png…]()
 <img width="1919" height="1033" alt="home" src="https://github.com/user-attachments/assets/cf282a57-fd5f-46a6-9dc8-2757b562fcc4" />
 
 
@@ -69,42 +68,42 @@
 
 The main desktop environment featuring the wallpaper, taskbar, and application launcher.
 
-![Home](./screenshots/home.png)
+<img width="1919" height="1033" alt="home" src="https://github.com/user-attachments/assets/cf282a57-fd5f-46a6-9dc8-2757b562fcc4" />
 
 ---
 ## 📝 Sticky Notes
 
-![Sticky Notes](./screenshots/notes.png)
+<img width="1919" height="1035" alt="notes" src="https://github.com/user-attachments/assets/1f901404-56bc-41d1-bb6f-2718feeebe85" />
 
 ---
 
 ## 👥 Contacts
 
-![Contacts](./screenshots/contacts.png)
+<img width="1919" height="1029" alt="contacts" src="https://github.com/user-attachments/assets/3ade2d9d-782f-4037-bafc-f2cebc9f69a0" />
 
 ---
 
 ## 👤 Contact Details
 
-![Contact Details](./screenshots/contact-detail.png)
+<img width="1918" height="1028" alt="Contact_details" src="https://github.com/user-attachments/assets/c13dd150-12b6-45bd-b9b8-e9f447451d50" />
 
 ---
 
 ## 🖼️ Gallery
 
-![Gallery](./screenshots/gallery.png)
+<img width="1918" height="1029" alt="gallery" src="https://github.com/user-attachments/assets/6bb8f49b-2499-4c6c-8c5d-155530563a0d" />
 
 ---
 
 ## 🔍 Image Preview
 
-![Image Preview](./screenshots/photo-detail.png)
+<img width="1919" height="1034" alt="photo-detail" src="https://github.com/user-attachments/assets/bfda414b-289c-434b-9571-cb184a697383" />
 
 ---
 
 ## 💀 BSOD (404)
 
-![BSOD](./screenshots/bsod.png)
+<img width="1919" height="1003" alt="bsod" src="https://github.com/user-attachments/assets/f5df8877-0cff-4c80-9199-7eff598f6ac9" />
 
 ---
 
