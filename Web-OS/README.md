@@ -16,8 +16,6 @@
 
 # 📸 Preview
 
-> Replace these images with your own screenshots.
-
 ## 🖥️ Desktop
 
 ![Desktop](./screenshots/desktop.png)
