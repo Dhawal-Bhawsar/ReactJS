@@ -31,11 +31,6 @@
 - Floating application windows
 - Persistent taskbar
 
-### 🌙 Dark / Light Mode
-
-- Global theme switching
-- Context API powered
-- Smooth transitions
 
 ### 📝 Sticky Notes
 
