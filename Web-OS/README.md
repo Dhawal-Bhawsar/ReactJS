@@ -18,7 +18,10 @@
 
 ## 🖥️ Desktop
 
-![Desktop](./screenshots/desktop.png)
+![Desktop](./screenshots/desktop.png)![Uploading home.png…]()
+<img width="1919" height="1033" alt="home" src="https://github.com/user-attachments/assets/cf282a57-fd5f-46a6-9dc8-2757b562fcc4" />
+
+
 
 ---
 
